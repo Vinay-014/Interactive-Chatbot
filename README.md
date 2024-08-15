@@ -13,15 +13,12 @@ AI Chat App using Generative Language Client API
 
 [Chat-AI](https://Vinay-014.github.io/Interactive-Chatbot) 
 
-## Setup Procedure
 
-1. **Copy `.env.example` to `.env`:**
-   - Rename the file and add your environment variables to `.env`.
 
-2. **Get API Key:**
+
+
+ **Get API Key:**
    - [API Key](https://aistudio.google.com/app/apikey) 
 
-3. **Install Dependencies:**
-   ```bash
-   npm install
+
 
