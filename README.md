@@ -19,7 +19,7 @@ AI Chat App using Generative Language Client API
    - Rename the file and add your environment variables to `.env`.
 
 2. **Get API Key:**
-   - [API Key](https://aistudio.google.com/app/apikey) *(Replace with the actual link or instructions on how to get the API key)*
+   - [API Key](https://aistudio.google.com/app/apikey) 
 
 3. **Install Dependencies:**
    ```bash
