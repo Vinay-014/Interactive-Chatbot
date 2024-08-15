@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 
 AI Chat App using Generative Language Client API
 
-[Chat-AI](https://Vinay-014.github.io/Interactive-Chatbot) *(Replace with the actual link to your deployed site or demo)*
+[Chat-AI](https://Vinay-014.github.io/Interactive-Chatbot) 
 
 ## Setup Procedure
 
